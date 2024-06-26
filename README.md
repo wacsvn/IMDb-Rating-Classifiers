@@ -1,5 +1,6 @@
 Link to the full dataset used: https://ai.stanford.edu/~amaas/data/sentiment/
 --------------------------------------------------------------------------------------------------------------------------------------
+<img width="698" alt="" src="https://ibb.co/WynPjVt">
 
 # Summary 
 This project aims to explore machine learning methods and their development processes by training on an IMDb ratings dataset to predict whether a user had a positive or negative sentiment towards a given movie. In this project we utilized kNN, Logistic Regression, Feedforward Neural Network, and Random Forest models to identify the most accurate fit. Ultimately, the Logistic Regression and Random Forest models performed the best, the latter being slightly less generalizable to new data. 
